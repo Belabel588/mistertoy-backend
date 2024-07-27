@@ -1,0 +1,39 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "fullname": "admin admin",
+    "_id": "k892j4",
+    "isAdmin": true
+  },
+  {
+  "username": "dani",
+  "password": "5678",
+  "fullname": "Dani the Daring",
+  "_id": "k892j4"
+},
+{
+  "username": "mika",
+  "password": "91011",
+  "fullname": "Mika the Mighty",
+  "_id": "l003k5"
+},
+{
+  "username": "tobi",
+  "password": "1213",
+  "fullname": "Tobi the Terrific",
+  "_id": "m114l6"
+},
+{
+  "username": "luci",
+  "password": "1415",
+  "fullname": "Luci the Luminous",
+  "_id": "n225m7"
+},
+{
+  "username": "zara",
+  "password": "1617",
+  "fullname": "Zara the Zealous",
+  "_id": "o336n8"
+}
+]

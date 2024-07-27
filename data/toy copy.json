@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "T1",
+    "title": "Lego Set",
+    "description": "A set of interlocking plastic bricks.",
+    "createdAt": 1622107359454,
+    "price": 29.99
+  },
+  {
+    "_id": "T2",
+    "title": "Action Figure",
+    "description": "A small figure of a character from a movie or comic.",
+    "createdAt": 1622107359454,
+    "price": 14.99
+  },
+  {
+    "_id": "T3",
+    "title": "Puzzle",
+    "description": "A jigsaw puzzle with 1000 pieces.",
+    "createdAt": 1622107359454,
+    "price": 19.99
+  }
+]
